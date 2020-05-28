@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jjj/NGCLAB/catkin_ws/src/rgb2grey/build/devel/setup.sh

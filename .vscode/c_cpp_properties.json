@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/jjj/NGCLAB/catkin_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/jjj/NGCLAB/catkin_ws/src/duo3d_driver/include",
+                "/home/jjj/NGCLAB/catkin_ws/src/opencv_test/include",
+                "/home/jjj/NGCLAB/catkin_ws/src/rgb2grey/include",
+                "/home/jjj/NGCLAB/catkin_ws/src/tutorial/include",
+                "/home/jjj/NGCLAB/catkin_ws/src/usb_cam/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

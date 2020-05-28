@@ -1,0 +1,8 @@
+prefix=/home/jjj/NGCLAB/catkin_ws/src/rgb2grey/build/devel
+
+Name: rgb2grey
+Description: Description of rgb2grey
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
